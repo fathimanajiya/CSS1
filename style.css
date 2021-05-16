@@ -1,0 +1,63 @@
+body{
+    background-color:lavenderblush;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-size: cover;
+}
+.head{
+    text-align: center;
+    background-color: teal;
+    
+}
+.head img{
+    width: 7%;
+    object-fit: contain;
+    object-position: top left;
+}
+h2{
+    color: lightcyan;
+}
+h6{
+    color: gold;
+}
+h4{
+    color:lightcyan ;
+}
+.second{
+    background-color: lightgrey;
+    width: 40%;
+    height: 350px;
+    margin: auto;
+    border: 2px solid gray;
+    box-shadow: 0 15px 40px gray;
+}
+.form{
+    color: black;
+    box-sizing: border-box;
+    height: 350px;
+    width: 100%;
+    padding: 70px 35px;
+    border: 1px solid gray;
+}
+label{
+    margin: 0;
+    padding: 0;
+}
+input{
+    margin-bottom: 15px;
+    border: 2px solid gray;
+}
+button{
+    background-color: green;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    background-color:gray;
+
+}
+#login{
+    color: darkblue;
+    font-weight: bold;
+}
